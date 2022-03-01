@@ -12,6 +12,7 @@
         <module>itstack-demo-jvm-01</module>
         <module>itstack-demo-jvm-02</module>
         <module>itstack-demo-jvm-03</module>
+        <module>itstack-demo-jvm-04</module>
     </modules>
 
     <dependencies>
